@@ -1,0 +1,1001 @@
+text,label,sumber,kategori_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Glints: Lowongan baru: Digital Marketing - Tokopedia. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+GoPay: Top-up GoPay Rp1000000 BERHASIL. Saldo GoPay Anda: Rp200000.,0,GoPay,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Glints: Lowongan baru: Software Engineer - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+LinkedIn: Perusahaan Tokopedia membuka lowongan Sales. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp250000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi QWERTY di [NOMOR_TELEPON].,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Mandiri: Pembayaran Tokopedia Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Grab: Kode promo GRAB418 berhasil digunakan.,0,Grab,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BCA: Transfer Rp100000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp200000.,0,Bank SMS,bukan_penipuan
+Grab: Kode promo GRAB900 berhasil digunakan.,0,Grab,bukan_penipuan
+GoPay: Top-up GoPay Rp250000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+XL: Paket Xtra Combo 2GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+GoPay: Top-up GoPay Rp750000 BERHASIL. Saldo GoPay Anda: Rp4700000.,0,GoPay,bukan_penipuan
+BRI: Top-up OVO Rp300000 BERHASIL. Saldo Anda: Rp4700000.,0,BRI,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Tokopedia: Pesanan #670768 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp100000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Bank DEF: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Mandiri: Pembayaran Tokopedia Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+XL: Paket Xtra Combo 10GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Glints: Lowongan baru: Sales - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+GoPay: Top-up GoPay Rp1000000 BERHASIL. Saldo GoPay Anda: Rp3500000.,0,GoPay,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+LinkedIn: Perusahaan QWERTY membuka lowongan UI/UX Designer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Bank XYZ: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+"Halo, selamat! Anda menang undian berhadiah Rp500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+"Halo, selamat! Anda menang undian berhadiah Rp1000000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoPay: Top-up GoPay Rp250000 BERHASIL. Saldo GoPay Anda: Rp1000000.,0,GoPay,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Glints: Lowongan baru: UI/UX Designer - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Grab: Kode promo GRAB879 berhasil digunakan.,0,Grab,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi BNI di [NOMOR_TELEPON].,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Tokopedia: Pesanan #358316 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp200000. Verifikasi di [LINK].,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Mandiri: Pembayaran Tokopedia Rp250000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+LinkedIn: Perusahaan Tokopedia membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Glints: Lowongan baru: Sales - BNI. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp250000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+"Halo, selamat! Anda menang undian berhadiah Rp250000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Permata: Pembayaran tagihan PLN Rp200000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Tokopedia: Pesanan #625248 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Glints: Lowongan baru: UI/UX Designer - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Rekening Anda terancam diblokir. Hubungi Mandiri di [NOMOR_TELEPON].,1,SMS,phishing
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp750000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Bank Tokopedia: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Permata: Pembayaran tagihan PLN Rp200000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Glints: Lowongan baru: Software Engineer - Tokopedia. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi BNI di [NOMOR_TELEPON].,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+GoPay: Top-up GoPay Rp1000000 BERHASIL. Saldo GoPay Anda: Rp200000.,0,GoPay,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp1500000. Verifikasi di [LINK].,1,SMS,phishing
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi DEF di [NOMOR_TELEPON].,1,SMS,phishing
+Grab: Kode promo GRAB612 berhasil digunakan.,0,Grab,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+BRI: Pembayaran Shopee Rp250000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Grab: Kode promo GRAB497 berhasil digunakan.,0,Grab,bukan_penipuan
+Bank BNI: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Indosat: Bonus kuota 5GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Bank QWERTY: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Tokopedia: Pesanan #550036 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Bank XYZ: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Mandiri: Pembayaran Tokopedia Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Indosat: Bonus kuota 15GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+BRI: Top-up OVO Rp750000 BERHASIL. Saldo Anda: Rp500000.,0,BRI,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+"Halo, selamat! Anda menang undian berhadiah Rp1000000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Indosat: Bonus kuota 2GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Rekening Anda terancam diblokir. Hubungi ABC di [NOMOR_TELEPON].,1,SMS,phishing
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+BCA: Transfer Rp1500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp300000.,0,Bank SMS,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp750000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp4700000.,0,Bank SMS,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Mandiri: Pembayaran Tokopedia Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Rekening Anda terancam diblokir. Hubungi ABC di [NOMOR_TELEPON].,1,SMS,phishing
+Rekening Anda terancam diblokir. Hubungi Tokopedia di [NOMOR_TELEPON].,1,SMS,phishing
+"Lowongan kerja mudah, gaji harian Rp300000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Lowongan kerja mudah, gaji harian Rp100000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+XL: Paket Xtra Combo 1GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+"Halo, selamat! Anda menang undian berhadiah Rp1000000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Indosat: Bonus kuota 2GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Tokopedia: Pesanan #238155 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+GoPay: Top-up GoPay Rp200000 BERHASIL. Saldo GoPay Anda: Rp500000.,0,GoPay,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Grab: Kode promo GRAB138 berhasil digunakan.,0,Grab,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+BCA: Transfer Rp1000000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+BCA: Transfer Rp750000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp4700000.,0,Bank SMS,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+LinkedIn: Perusahaan QWERTY membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Halo, selamat! Anda menang undian berhadiah Rp300000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BRI: Top-up OVO Rp100000 BERHASIL. Saldo Anda: Rp300000.,0,BRI,bukan_penipuan
+BRI: Top-up OVO Rp200000 BERHASIL. Saldo Anda: Rp1000000.,0,BRI,bukan_penipuan
+LinkedIn: Perusahaan Mandiri membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Bank Tokopedia: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp750000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Indosat: Bonus kuota 1GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+BRI: Pembayaran Shopee Rp1000000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp300000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+LinkedIn: Perusahaan Mandiri membuka lowongan UI/UX Designer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Grab: Kode promo GRAB576 berhasil digunakan.,0,Grab,bukan_penipuan
+BCA: Transfer Rp1000000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+BCA: Transfer Rp500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp200000.,0,Bank SMS,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+LinkedIn: Perusahaan DEF membuka lowongan UI/UX Designer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Rekening Anda terancam diblokir. Hubungi QWERTY di [NOMOR_TELEPON].,1,SMS,phishing
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Indosat: Bonus kuota 50GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+XL: Paket Xtra Combo 5GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Mandiri: Pembayaran Tokopedia Rp1000000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Indosat: Bonus kuota 10GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+XL: Paket Xtra Combo 1GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Tokopedia: Pesanan #428312 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp750000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi BNI di [NOMOR_TELEPON].,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BCA: Transfer Rp300000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Lowongan kerja mudah, gaji harian Rp200000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp200000. Verifikasi di [LINK].,1,SMS,phishing
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+LinkedIn: Perusahaan ABC membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BCA: Transfer Rp500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp200000.,0,Bank SMS,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi Tokopedia di [NOMOR_TELEPON].,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Glints: Lowongan baru: Software Engineer - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp300000. Verifikasi di [LINK].,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Glints: Lowongan baru: Sales - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+XL: Paket Xtra Combo 50GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+BRI: Pembayaran Shopee Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Glints: Lowongan baru: Software Engineer - QWERTY. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Permata: Pembayaran tagihan PLN Rp300000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp750000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+LinkedIn: Perusahaan Tokopedia membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp1000000. Verifikasi di [LINK].,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Glints: Lowongan baru: Sales - XYZ. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Tokopedia: Pesanan #726484 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+BRI: Top-up OVO Rp100000 BERHASIL. Saldo Anda: Rp200000.,0,BRI,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Bank Tokopedia: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Indosat: Bonus kuota 2GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp300000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+GoPay: Top-up GoPay Rp100000 BERHASIL. Saldo GoPay Anda: Rp1000000.,0,GoPay,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+"Halo, selamat! Anda menang undian berhadiah Rp500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp750000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Glints: Lowongan baru: Manager - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Indosat: Bonus kuota 20GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp750000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+BCA: Transfer Rp200000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi Shopee di [NOMOR_TELEPON].,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp1000000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp300000. Verifikasi di [LINK].,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp1500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp300000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp100000. Verifikasi di [LINK].,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+BRI: Pembayaran Shopee Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BRI: Top-up OVO Rp750000 BERHASIL. Saldo Anda: Rp200000.,0,BRI,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi Mandiri di [NOMOR_TELEPON].,1,SMS,phishing
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp1000000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Tokopedia: Pesanan #968910 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+LinkedIn: Perusahaan XYZ membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+LinkedIn: Perusahaan ABC membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp250000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Indosat: Bonus kuota 5GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Indosat: Bonus kuota 1GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+LinkedIn: Perusahaan BNI membuka lowongan UI/UX Designer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoPay: Top-up GoPay Rp300000 BERHASIL. Saldo GoPay Anda: Rp200000.,0,GoPay,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Grab: Kode promo GRAB243 berhasil digunakan.,0,Grab,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp300000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+LinkedIn: Perusahaan DEF membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Permata: Pembayaran tagihan PLN Rp1000000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Tokopedia: Pesanan #275940 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Indosat: Bonus kuota 10GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+XL: Paket Xtra Combo 1GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BRI: Pembayaran Shopee Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp1000000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Indosat: Bonus kuota 1GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Mandiri: Pembayaran Tokopedia Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+XL: Paket Xtra Combo 50GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+XL: Paket Xtra Combo 2GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Tokopedia: Pesanan #944213 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp200000. Verifikasi di [LINK].,1,SMS,phishing
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp3500000.,0,Bank SMS,bukan_penipuan
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+"Halo, selamat! Anda menang undian berhadiah Rp300000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+LinkedIn: Perusahaan XYZ membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Tokopedia: Pesanan #213229 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Glints: Lowongan baru: Sales - QWERTY. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp1000000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp1500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Grab: Kode promo GRAB399 berhasil digunakan.,0,Grab,bukan_penipuan
+Indosat: Bonus kuota 15GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Tokopedia: Pesanan #498737 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+BRI: Pembayaran Shopee Rp1000000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp1000000. Verifikasi di [LINK].,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+BRI: Pembayaran Shopee Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+BCA: Transfer Rp200000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Mandiri: Pembayaran Tokopedia Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+BRI: Pembayaran Shopee Rp1000000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp500000.,0,GoPay,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Tokopedia: Pesanan #814285 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Grab: Kode promo GRAB230 berhasil digunakan.,0,Grab,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp500000. Verifikasi di [LINK].,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp500000. Verifikasi di [LINK].,1,SMS,phishing
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Grab: Kode promo GRAB729 berhasil digunakan.,0,Grab,bukan_penipuan
+Indosat: Bonus kuota 1GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+LinkedIn: Perusahaan Shopee membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp200000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+BRI: Pembayaran Shopee Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Tokopedia: Pesanan #996121 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+XL: Paket Xtra Combo 15GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+GoPay: Top-up GoPay Rp500000 BERHASIL. Saldo GoPay Anda: Rp4700000.,0,GoPay,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp1500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Glints: Lowongan baru: Software Engineer - Tokopedia. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Mandiri: Pembayaran Tokopedia Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi ABC di [NOMOR_TELEPON].,1,SMS,phishing
+BRI: Top-up OVO Rp200000 BERHASIL. Saldo Anda: Rp1000000.,0,BRI,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+LinkedIn: Perusahaan DEF membuka lowongan UI/UX Designer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BRI: Top-up OVO Rp200000 BERHASIL. Saldo Anda: Rp1000000.,0,BRI,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Glints: Lowongan baru: Software Engineer - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Bank ABC: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Glints: Lowongan baru: Manager - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+BCA: Transfer Rp1500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp750000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Lowongan kerja mudah, gaji harian Rp250000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Lowongan kerja mudah, gaji harian Rp250000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Bank Mandiri: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+LinkedIn: Perusahaan BNI membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Halo, selamat! Anda menang undian berhadiah Rp300000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Indosat: Bonus kuota 10GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Permata: Pembayaran tagihan PLN Rp200000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+BRI: Pembayaran Shopee Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp300000.,0,Bank SMS,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Bank Mandiri: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+BCA: Transfer Rp200000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Grab: Kode promo GRAB542 berhasil digunakan.,0,Grab,bukan_penipuan
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp200000.,0,GoPay,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+XL: Paket Xtra Combo 2GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi ABC di [NOMOR_TELEPON].,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+LinkedIn: Perusahaan ABC membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Indosat: Bonus kuota 50GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+XL: Paket Xtra Combo 20GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+"Halo, selamat! Anda menang undian berhadiah Rp750000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Indosat: Bonus kuota 50GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp200000. Verifikasi di [LINK].,1,SMS,phishing
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+XL: Paket Xtra Combo 20GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Glints: Lowongan baru: Manager - BNI. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Grab: Kode promo GRAB869 berhasil digunakan.,0,Grab,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+BRI: Pembayaran Shopee Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp4700000.,0,GoPay,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp750000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+BCA: Transfer Rp100000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp4700000.,0,Bank SMS,bukan_penipuan
+Grab: Kode promo GRAB310 berhasil digunakan.,0,Grab,bukan_penipuan
+LinkedIn: Perusahaan Tokopedia membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Permata: Pembayaran tagihan PLN Rp250000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Glints: Lowongan baru: Manager - DEF. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Indosat: Bonus kuota 2GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp200000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Tokopedia: Pesanan #113291 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Bank Tokopedia: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp300000. Verifikasi di [LINK].,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Glints: Lowongan baru: Sales - Tokopedia. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Tokopedia: Pesanan #191128 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1000000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Glints: Lowongan baru: Digital Marketing - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+LinkedIn: Perusahaan BNI membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BCA: Transfer Rp200000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+BRI: Pembayaran Shopee Rp250000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+BRI: Top-up OVO Rp750000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+LinkedIn: Perusahaan Mandiri membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp750000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Mandiri: Pembayaran Tokopedia Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+GoPay: Top-up GoPay Rp100000 BERHASIL. Saldo GoPay Anda: Rp1000000.,0,GoPay,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+"Lowongan kerja mudah, gaji harian Rp750000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Mandiri: Pembayaran Tokopedia Rp750000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp200000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp300000. Verifikasi di [LINK].,1,SMS,phishing
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Grab: Kode promo GRAB788 berhasil digunakan.,0,Grab,bukan_penipuan
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Glints: Lowongan baru: Digital Marketing - Mandiri. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Bank Shopee: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp300000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi XYZ di [NOMOR_TELEPON].,1,SMS,phishing
+BRI: Top-up OVO Rp100000 BERHASIL. Saldo Anda: Rp200000.,0,BRI,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+BRI: Top-up OVO Rp100000 BERHASIL. Saldo Anda: Rp500000.,0,BRI,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Grab: Kode promo GRAB430 berhasil digunakan.,0,Grab,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+Grab: Kode promo GRAB866 berhasil digunakan.,0,Grab,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Tokopedia: Pesanan #486715 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Indosat: Bonus kuota 5GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+BRI: Pembayaran Shopee Rp100000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+BRI: Pembayaran Shopee Rp250000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BRI: Pembayaran Shopee Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+LinkedIn: Perusahaan QWERTY membuka lowongan Software Engineer. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+LinkedIn: Perusahaan Mandiri membuka lowongan Digital Marketing. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BCA: Transfer Rp1000000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+BRI: Top-up OVO Rp200000 BERHASIL. Saldo Anda: Rp300000.,0,BRI,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+XL: Paket Xtra Combo 2GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+XL: Paket Xtra Combo 5GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Tokopedia: Pesanan #790662 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Glints: Lowongan baru: Sales - Mandiri. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+LinkedIn: Perusahaan Shopee membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Bank DEF: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Permata: Pembayaran tagihan PLN Rp100000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+"Lowongan kerja mudah, gaji harian Rp1500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Permata: Pembayaran tagihan PLN Rp100000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp300000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Indosat: Bonus kuota 20GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+GoPay: Top-up GoPay Rp750000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+Bank Shopee: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BRI: Top-up OVO Rp300000 BERHASIL. Saldo Anda: Rp500000.,0,BRI,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Mandiri: Pembayaran Tokopedia Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,Mandiri,bukan_penipuan
+GoPay: Top-up GoPay Rp750000 BERHASIL. Saldo GoPay Anda: Rp1000000.,0,GoPay,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+GoPay: Top-up GoPay Rp300000 BERHASIL. Saldo GoPay Anda: Rp1000000.,0,GoPay,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Grab: Kode promo GRAB739 berhasil digunakan.,0,Grab,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Rekening Anda terancam diblokir. Hubungi Mandiri di [NOMOR_TELEPON].,1,SMS,phishing
+BRI: Pembayaran Shopee Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi QWERTY di [NOMOR_TELEPON].,1,SMS,phishing
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Glints: Lowongan baru: Sales - BNI. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp750000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp500000.,0,BRI,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+BCA: Transfer Rp1500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp3500000.,0,Bank SMS,bukan_penipuan
+Tokopedia: Pesanan #438247 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Tokopedia: Pesanan #259133 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Grab: Kode promo GRAB989 berhasil digunakan.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp200000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Indosat: Bonus kuota 50GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Halo, selamat! Anda menang undian berhadiah Rp1500000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Glints: Lowongan baru: Manager - QWERTY. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp100000. Verifikasi di [LINK].,1,SMS,phishing
+BRI: Top-up OVO Rp1500000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+Tokopedia: Pesanan #201302 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+BRI: Pembayaran Shopee Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+"Halo, selamat! Anda menang undian berhadiah Rp100000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BRI: Pembayaran Shopee Rp200000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+BCA: Transfer Rp300000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp300000.,0,Bank SMS,bukan_penipuan
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+XL: Paket Xtra Combo 5GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+Bank DEF: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp200000. Verifikasi di [LINK].,1,SMS,phishing
+Tokopedia: Pesanan #659965 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp100000. Verifikasi di [LINK].,1,SMS,phishing
+Gojek: Diskon 20% GoRide untuk perjalanan berikutnya.,0,Gojek,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+BRI: Top-up OVO Rp500000 BERHASIL. Saldo Anda: Rp300000.,0,BRI,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Tokopedia: Pesanan #136823 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Tokopedia: Pesanan #112266 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp250000. Verifikasi di [LINK].,1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+BRI: Pembayaran Shopee Rp300000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Keluarga sakit, butuh bantuan biaya, kirim ke [NOMOR_REKENING] a.n [NAMA_PRIBADI].",1,WhatsApp,love scam
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi Mandiri di [NOMOR_TELEPON].,1,SMS,phishing
+GoFood: Pesanan Anda sedang diantar oleh driver [NAMA_PRIBADI].,0,Gojek,bukan_penipuan
+Tokopedia: Promo diskon hingga 90%. Cek Tokopedia sekarang.,0,Tokopedia,bukan_penipuan
+Grab: Kode promo GRAB444 berhasil digunakan.,0,Grab,bukan_penipuan
+Tokopedia: Pesanan #190728 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+GoPay: Top-up GoPay Rp500000 BERHASIL. Saldo GoPay Anda: Rp4700000.,0,GoPay,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+XL: Paket Xtra Combo 15GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Grab: Kode promo GRAB563 berhasil digunakan.,0,Grab,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+"Lowongan kerja mudah, gaji harian Rp100000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+BCA: Transfer Rp500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp500000.,0,Bank SMS,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi ABC di [NOMOR_TELEPON].,1,SMS,phishing
+Permata: Pembayaran tagihan PLN Rp200000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+BCA: Transfer Rp750000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp1000000.,0,Bank SMS,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Grab: Kode promo GRAB750 berhasil digunakan.,0,Grab,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Glints: Lowongan baru: Software Engineer - DEF. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+BCA: Transfer Rp300000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp4700000.,0,Bank SMS,bukan_penipuan
+Akun Grab Anda terancam diblokir. Klik [LINK] untuk menghindari.,1,SMS,phishing
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Grab: Kode promo GRAB834 berhasil digunakan.,0,Grab,bukan_penipuan
+BRI: Top-up OVO Rp1500000 BERHASIL. Saldo Anda: Rp500000.,0,BRI,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Akun Anda diblokir sementara, klik [LINK] untuk aktivasi ulang.",1,SMS,phishing
+XL: Paket Xtra Combo 1GB Anda telah aktif. Nikmati internetan!,0,XL,bukan_penipuan
+GoPay: Top-up GoPay Rp200000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi Tokopedia di [NOMOR_TELEPON].,1,SMS,phishing
+Tokopedia: Pesanan #206992 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi QWERTY di [NOMOR_TELEPON].,1,SMS,phishing
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+BCA: Transfer Rp500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp300000.,0,Bank SMS,bukan_penipuan
+GoFood: Pesanan telah dikirim. Cek aplikasi untuk melacak driver.,0,GoFood,bukan_penipuan
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Undangan pernikahan terlampir di file APK. Klik link berikut: [LINK],1,WhatsApp,undangan APK
+Tokopedia: Pesanan #410581 telah dikirim oleh penjual. Lacak di aplikasi Tokopedia.,0,Tokopedia,bukan_penipuan
+Bank Tokopedia: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Bank Mandiri: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+LinkedIn: Perusahaan Mandiri membuka lowongan Sales. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+Bank Mandiri: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+JobStreet: Lamaran Anda telah diterima perusahaan. Cek status di aplikasi.,0,JobStreet,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+Rekening Anda terancam diblokir. Hubungi BNI di [NOMOR_TELEPON].,1,SMS,phishing
+BRI: Pembayaran Shopee Rp1500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+"Promo pinjaman online, cair hari ini tanpa agunan. Hubungi [NOMOR_TELEPON].",1,SMS,penipuan pinjaman
+Konfirmasi hadiah dengan transfer ke [NOMOR_REKENING].,1,SMS,undian palsu
+Mohon bayar tagihan ke [NAMA_PRIBADI] di rekening [NOMOR_REKENING].,1,SMS,tagihan fiktif
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Grab: Kode promo GRAB980 berhasil digunakan.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp200000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp3500000.,0,BRI,bukan_penipuan
+Indosat: Bonus kuota 20GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Permata: Pembayaran tagihan PLN Rp500000 berhasil. Ref: [NOMOR_TRANSAKSI].,0,Permata,bukan_penipuan
+GoPay: Top-up GoPay Rp1500000 BERHASIL. Saldo GoPay Anda: Rp300000.,0,GoPay,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+BCA: Transfer Rp250000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp4700000.,0,Bank SMS,bukan_penipuan
+"Sayang, aku sedang di bandara butuh biaya tambahan. Tolong transfer ke [NOMOR_REKENING].",1,WhatsApp,love scam
+Indosat: Bonus kuota 15GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+"Ma, pulsa habis, isi ke [NOMOR_TELEPON].",1,SMS,mama minta pulsa
+Indosat: Bonus kuota 50GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Transfer uang ke [NOMOR_REKENING] untuk klaim hadiah Anda.,1,Facebook,undian palsu
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+Glints: Lowongan baru: Manager - BNI. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp500000. Verifikasi di [LINK].,1,SMS,phishing
+Glints: Lowongan baru: Digital Marketing - Shopee. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Kami dari Tim Keamanan WhatsApp. Mohon berikan kode OTP ke nomor [NOMOR_TELEPON].,1,SMS,phishing
+Bank Shopee: Akun Anda diblokir. Segera klik [LINK] untuk verifikasi.,1,SMS,phishing
+Rekening Anda terancam diblokir. Hubungi QWERTY di [NOMOR_TELEPON].,1,SMS,phishing
+Dapat pinjaman tunai instan! Cukup kirim data ke WhatsApp [NOMOR_TELEPON].,1,SMS,penipuan pinjaman
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp1500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+LinkedIn: Perusahaan BNI membuka lowongan Manager. Cek detail di LinkedIn.,0,LinkedIn,bukan_penipuan
+BRI: Top-up OVO Rp1000000 BERHASIL. Saldo Anda: Rp1000000.,0,BRI,bukan_penipuan
+"Ma, aku kecelakaan, butuh uang cepat. Kirim ke rekening [NOMOR_REKENING] atas nama [NAMA_PRIBADI].",1,SMS,mama minta pulsa
+"Halo, selamat! Anda menang undian berhadiah Rp300000. Info lebih lanjut klik [LINK].",1,SMS,undian palsu
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+BRI: Pembayaran Shopee Rp500000 BERHASIL. Ref: [NOMOR_TRANSAKSI].,0,BRI,bukan_penipuan
+Glints: Lowongan baru: Sales - Mandiri. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
+Indosat: Bonus kuota 1GB telah aktif. Selamat menikmati.,0,Indosat,bukan_penipuan
+Glints: Lowongan baru: Software Engineer - XYZ. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Kartu kredit Anda diblokir. Hubungi [NOMOR_TELEPON] sekarang juga!,1,SMS,phishing
+BPJS Kesehatan: Anda resmi menerima dana bantuan Rp750000. Verifikasi di [LINK].,1,SMS,phishing
+Glints: Lowongan baru: Sales - ABC. Lamar sekarang di Glints.,0,Glints,bukan_penipuan
+Shopee: Kode OTP Anda adalah [KODE_OTP]. Jangan bagikan ke siapa pun.,0,Shopee,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+BNI: Kode OTP transaksi Anda adalah [KODE_OTP].,0,BNI,bukan_penipuan
+BCA: Transfer Rp500000 ke [NOMOR_REKENING] berhasil. Saldo Anda: Rp3500000.,0,Bank SMS,bukan_penipuan
+"Yth pelanggan, tagihan listrik Anda belum dibayar. Transfer ke [NOMOR_REKENING] sebelum layanan diputus.",1,SMS,tagihan fiktif
+Grab: Promo GrabCar! Diskon 30% untuk perjalanan hari ini.,0,Grab,bukan_penipuan
+"Lowongan kerja mudah, gaji harian Rp500000. Hubungi WhatsApp [NOMOR_TELEPON] sekarang!",1,WhatsApp,kerja palsu
