@@ -156,5 +156,5 @@ with tabs[2]:
     Proyek ini adalah bagian dari studi kasus **"Innovation Frontiers"** yang bertujuan untuk menerapkan ilmu data pada masalah-masalah sosial yang kompleks dan "anti-mainstream" di Indonesia.
     
     - **Dibuat oleh:** Rafif Sudanta
-    - **Lihat Kode:** [GitHub Repository](https://github.com/r1afif18/web-innovation-frontiers)
+    - **Lihat Kode:** [GitHub Repository](https://github.com/r1afif18/innovation-frontier-fraud-detection/)
     """)
